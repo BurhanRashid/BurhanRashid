@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Rashid&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burhan-Rashid&show_icons=true&theme=dark)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Rashid&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurhanRashid&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurhanRashid&show_icons=true&theme=dark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanRashid&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
